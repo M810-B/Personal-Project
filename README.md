@@ -1,2 +1,2 @@
 # Personal-Project
-This repository consist of my small project-Calculator I did while learning python.
+This repository consist of my personal project-Calculator I did while learning python.
